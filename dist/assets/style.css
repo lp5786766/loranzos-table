@@ -28,6 +28,16 @@ i {
     color: antiquewhite;
 }
 
+
+/* gallery */
+/* .galley-pics {
+    display: inline;
+    justify-content: space-between;
+} */
+img {
+    margin: 15px;
+}
+
 footer {
     position: absolute;
     bottom: 0;
