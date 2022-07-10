@@ -1,9 +1,18 @@
 * {
+    /* border: 1px solid white; */ 
+}
+
+
+body {
     background-color: rgb(57, 48, 48);
-    /* border: 1px solid white; */
 }
 
 /* nav elements */
+
+nav {
+    background-color: rgb(57, 48, 48);
+}
+
 .brand-logo {
     color: antiquewhite;
     font-family: 'Cinzel', serif;
@@ -54,4 +63,21 @@ footer {
 
 footer p {
     margin: 0px;
+}
+
+.card-title {
+    color: antiquewhite;
+    font-family: 'Cinzel', serif;
+}
+
+.card .card-reveal {
+    background-color: rgb(90, 76, 76);
+}
+
+.card .card-content {
+    background-color: rgb(90, 76, 76);
+}
+
+.card {
+    background-color: rgb(90, 76, 76);
 }
